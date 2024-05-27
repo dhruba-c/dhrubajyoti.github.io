@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "dhrubajyoti chakraborty"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "icon.png"
   bio    : "Second-year Ashoka Econ PhD student interested in individual and social choice, strategic interactions and much more."
   links:
     - label: "email"
