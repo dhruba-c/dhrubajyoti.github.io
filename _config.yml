@@ -18,10 +18,10 @@ email: dhrubajyoti.chakraborty_phd23@ashoka.edu.in
 description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
   Second-year Ashoka Econ PhD student interested in education and much more.
 twitter_username: _DhrubaC
-github_username: padajar
+github_username: dhruba-c
 minimal_mistakes_skin: default
 search: true
-url: "https://padajar.com"
+url: "https://dhrubajyoti.com"
 
 # Build settings
 markdown: kramdown
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "paolo adajar"
+  name   : "dhrubajyoti chakraborty"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Third-year MIT Econ PhD candidate interested in education, development, IO, and much more."
+  bio    : "Second-year Ashoka Econ PhD student interested in individual and social choice, strategic interactions and much more."
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:paoloadajar@mit.edu"
+      url: "mailto:dhrubajyoti.chakraborty_phd23@ashoka.edu.in"
     # - label: "linkedin"
       # icon: "fab fa-fw fa-linkedin-in"
       # url: "https://www.linkedin.com/in/padajar/"
